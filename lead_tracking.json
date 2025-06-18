@@ -1,0 +1,4809 @@
+{
+  "leads": {
+    "Sim_Strategy_-3205860": {
+      "first_seen": "2025-06-13T11:48:05.989688",
+      "last_updated": "2025-06-13T11:54:23.475493",
+      "lead_score": 75,
+      "lead_quality": "Hot Lead",
+      "author": "Sim_Strategy",
+      "title": "I'm an SEO/Digital Marketing Consultant...I just helped take a client's eCommerce company from just 3 total sales, to nearly $100,00/mo revenue on a bootstrap budget - in less than 3 months. Here's a long-ass post with some takeaways & strategies I used to get there.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.475493",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "I'm an SEO/Digital Marketing Consultant...I just helped take a client's eCommerce company from just "
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "Sim_Strategy",
+        "emails": [],
+        "companies_mentioned": [
+          "least skim through",
+          "first",
+          "all"
+        ],
+        "social_links": [
+          "drommabed.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "budget_medium_budget",
+        "intent_medium",
+        "hot_lead",
+        "industry_marketing",
+        "size_small_business",
+        "urgent"
+      ]
+    },
+    "W1ZZ4RD_-6679438": {
+      "first_seen": "2025-06-13T11:48:05.993059",
+      "last_updated": "2025-06-13T11:54:23.479665",
+      "lead_score": 75,
+      "lead_quality": "Hot Lead",
+      "author": "W1ZZ4RD",
+      "title": "3 months ago I posted the exact process on how I sold $150,000 selling T-shirt on Amazon. I will now explain the exact steps you can take to earn your first $1,000,000 selling on Amazon via the Shopify integration with ZERO inventory.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.479665",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "3 months ago I posted the exact process on how I sold $150,000 selling T-shirt on Amazon. I will now"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "W1ZZ4RD",
+        "emails": [],
+        "companies_mentioned": [
+          "the very end of 2015",
+          "dominating the print on demand",
+          "least familiar with shopify as a content management system and online store payment processor"
+        ],
+        "social_links": [
+          "reddit.com",
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "budget_medium_budget",
+        "intent_high",
+        "industry_ecommerce",
+        "hot_lead",
+        "size_freelancer",
+        "urgent"
+      ]
+    },
+    "lickitysplitstyle_10994847": {
+      "first_seen": "2025-06-13T11:48:05.994087",
+      "last_updated": "2025-06-13T11:54:23.485036",
+      "lead_score": 67,
+      "lead_quality": "Warm Lead",
+      "author": "lickitysplitstyle",
+      "title": "Hopefully helpful advice if you're looking for a job in Marketing",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.485036",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "Hopefully helpful advice if you're looking for a job in Marketing"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "no_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "lickitysplitstyle",
+        "emails": [],
+        "companies_mentioned": [
+          "the right time",
+          "least 15",
+          "times the content is dense"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "intent_high",
+        "budget_no_budget",
+        "warm_lead",
+        "size_freelancer",
+        "industry_marketing",
+        "urgent"
+      ]
+    },
+    "AnabelBain_-7151647": {
+      "first_seen": "2025-06-13T11:48:06.002558",
+      "last_updated": "2025-06-13T11:54:23.495822",
+      "lead_score": 65,
+      "lead_quality": "Warm Lead",
+      "author": "AnabelBain",
+      "title": "Email Marketing is easy. The EXACT email flows we used to help our clients earn an extra $100,000/year for their stores. Here is how how you can implement them too in under 2 minutes.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.495822",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "Email Marketing is easy. The EXACT email flows we used to help our clients earn an extra $100,000/ye"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "AnabelBain",
+        "emails": [],
+        "companies_mentioned": [
+          "the time of checkout",
+          "the check out to avail",
+          "this"
+        ],
+        "social_links": [
+          "shopify.com",
+          "emailwish.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "industry_ecommerce",
+        "warm_lead",
+        "intent_high"
+      ]
+    },
+    "ADreamerNation_-9968022": {
+      "first_seen": "2025-06-13T11:48:06.006146",
+      "last_updated": "2025-06-13T11:54:23.499135",
+      "lead_score": 65,
+      "lead_quality": "Warm Lead",
+      "author": "ADreamerNation",
+      "title": "I (23 y/o) make $740,000 a Year with Mobile Apps - AMA",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.499135",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "I (23 y/o) make $740,000 a Year with Mobile Apps - AMA"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "ADreamerNation",
+        "emails": [],
+        "companies_mentioned": [
+          "the end need be",
+          "the time",
+          "the time"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "budget_medium_budget",
+        "intent_high",
+        "warm_lead",
+        "industry_marketing",
+        "size_small_business",
+        "urgent"
+      ]
+    },
+    "lazymentors_-3531105": {
+      "first_seen": "2025-06-13T11:48:06.010016",
+      "last_updated": "2025-06-13T11:54:23.504016",
+      "lead_score": 59,
+      "lead_quality": "Warm Lead",
+      "author": "lazymentors",
+      "title": "[Ultimate List] A list of Marketing Tools That I\u2019ve tested over the years and found helpful to do better marketing with less work. More than 50 Tools To Help you with Marketing, Copywriting & Sales!",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.504016",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "[Ultimate List] A list of Marketing Tools That I\u2019ve tested over the years and found helpful to do be"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "medium",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "lazymentors",
+        "emails": [],
+        "companies_mentioned": [
+          "the beginning don",
+          "real",
+          "content structuring like me"
+        ],
+        "social_links": [
+          "jaskaransaini.com",
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "intent_medium",
+        "warm_lead",
+        "industry_marketing"
+      ]
+    },
+    "tom_spur_-6863717": {
+      "first_seen": "2025-06-13T11:48:06.011618",
+      "last_updated": "2025-06-13T11:54:23.507367",
+      "lead_score": 51,
+      "lead_quality": "Warm Lead",
+      "author": "tom_spur",
+      "title": "My first day in a job in marketing - hated it and I'm devastated. Need help.",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.507367",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "My first day in a job in marketing - hated it and I'm devastated. Need help."
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "tom_spur",
+        "emails": [],
+        "companies_mentioned": [
+          "numbers",
+          "odd times"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "urgent",
+        "warm_lead",
+        "industry_media",
+        "intent_high"
+      ]
+    },
+    "applextrent_-7292518": {
+      "first_seen": "2025-06-13T11:48:06.013326",
+      "last_updated": "2025-06-13T11:54:23.510757",
+      "lead_score": 51,
+      "lead_quality": "Warm Lead",
+      "author": "applextrent",
+      "title": "No one values marketing anymore even when I over deliver",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.510757",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "No one values marketing anymore even when I over deliver"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.3,
+      "contact_info": {
+        "reddit_username": "applextrent",
+        "emails": [],
+        "companies_mentioned": [
+          "this point",
+          "this point"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "intent_medium",
+        "warm_lead",
+        "size_small_business",
+        "industry_saas_tech"
+      ]
+    },
+    "johnstevens456_11468956": {
+      "first_seen": "2025-06-13T11:48:06.015908",
+      "last_updated": "2025-06-13T11:54:23.513151",
+      "lead_score": 51,
+      "lead_quality": "Warm Lead",
+      "author": "johnstevens456",
+      "title": "I used to emotionally bond with my employees, now I don\u2019t even ask about their weekend.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.513151",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "I used to emotionally bond with my employees, now I don\u2019t even ask about their weekend."
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Low",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "johnstevens456",
+        "emails": [],
+        "companies_mentioned": [
+          "some point",
+          "all",
+          "them to bail them out"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "size_freelancer",
+        "intent_low"
+      ]
+    },
+    "johnrushx_-7190407": {
+      "first_seen": "2025-06-13T11:48:06.017360",
+      "last_updated": "2025-06-13T11:54:23.518312",
+      "lead_score": 51,
+      "lead_quality": "Warm Lead",
+      "author": "johnrushx",
+      "title": "If only someone told me this before my first startup",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.518312",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "If only someone told me this before my first startup"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "johnrushx",
+        "emails": [],
+        "companies_mentioned": [
+          "the early stage",
+          "some point",
+          "all until pmf"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "budget_low_budget",
+        "warm_lead",
+        "industry_marketing",
+        "size_small_business",
+        "urgent"
+      ]
+    },
+    "Imaginary_Roll3958_-2789449": {
+      "first_seen": "2025-06-13T11:48:06.019687",
+      "last_updated": "2025-06-13T11:54:23.521646",
+      "lead_score": 47,
+      "lead_quality": "Cold Lead",
+      "author": "Imaginary_Roll3958",
+      "title": "Started a kayak rental business and scaled it to $30,000 a month",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.521646",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "Started a kayak rental business and scaled it to $30,000 a month"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "Imaginary_Roll3958",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "intent_medium",
+        "budget_low_budget",
+        "cold_lead",
+        "urgent",
+        "size_small_business",
+        "industry_media"
+      ]
+    },
+    "Inner-Worldliness785_-8073570": {
+      "first_seen": "2025-06-13T11:48:06.023702",
+      "last_updated": "2025-06-13T11:54:23.525148",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "Inner-Worldliness785",
+      "title": "Burned out senior marketer team of 1 expected to do cold calls. Help?",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.525148",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "Burned out senior marketer team of 1 expected to do cold calls. Help?"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Inner-Worldliness785",
+        "emails": [],
+        "companies_mentioned": [
+          "first i did not know i was going to do sales",
+          "strategy but i don"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "budget_low_budget",
+        "size_small_business",
+        "cold_lead",
+        "industry_marketing"
+      ]
+    },
+    "anh690136_-1917838": {
+      "first_seen": "2025-06-13T11:48:06.027283",
+      "last_updated": "2025-06-13T11:54:23.532004",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "anh690136",
+      "title": "[Free Sharing] 300 sites to promote your business",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.532004",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "[Free Sharing] 300 sites to promote your business"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "anh690136",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "size_small_business",
+        "cold_lead",
+        "urgent"
+      ]
+    },
+    "asata-io_77079403": {
+      "first_seen": "2025-06-13T11:48:06.030064",
+      "last_updated": "2025-06-13T11:54:23.537030",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "asata-io",
+      "title": "GUIDE TO HOW BECOME A MILLIONAIRE. For younglings, so they stop asking the same thing every other post.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.537030",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "GUIDE TO HOW BECOME A MILLIONAIRE. For younglings, so they stop asking the same thing every other po"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "freelancer",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.3,
+      "contact_info": {
+        "reddit_username": "asata-io",
+        "emails": [],
+        "companies_mentioned": [
+          "least from your highschool",
+          "a young age",
+          "this stage"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "budget_low_budget",
+        "size_freelancer",
+        "cold_lead",
+        "industry_ecommerce"
+      ]
+    },
+    "BiancaChambers_30911279": {
+      "first_seen": "2025-06-13T11:48:06.031929",
+      "last_updated": "2025-06-13T11:54:23.541432",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "BiancaChambers",
+      "title": "My boss expects my side business to give products to his business for free? Apparently he's pissed?",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.541432",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "My boss expects my side business to give products to his business for free? Apparently he's pissed?"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "BiancaChambers",
+        "emails": [],
+        "companies_mentioned": [
+          "a college",
+          "the moment for a few reasons"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "industry_ecommerce",
+        "cold_lead",
+        "intent_high"
+      ]
+    },
+    "seostevew_-8665011": {
+      "first_seen": "2025-06-13T11:48:06.036793",
+      "last_updated": "2025-06-13T11:54:23.544870",
+      "lead_score": 41.6,
+      "lead_quality": "Cold Lead",
+      "author": "seostevew",
+      "title": "Viable Business Idea or Should I Scrap It? (No Promotion)",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.544870",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0.0,
+          "content_snippet": "Viable Business Idea or Should I Scrap It? (No Promotion)"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "seostevew",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "industry_ecommerce",
+        "cold_lead",
+        "intent_high"
+      ]
+    },
+    "tbonedawg44_54845083": {
+      "first_seen": "2025-06-13T11:48:06.039786",
+      "last_updated": "2025-06-13T11:54:23.550438",
+      "lead_score": 41,
+      "lead_quality": "Cold Lead",
+      "author": "tbonedawg44",
+      "title": "Help attracting marketing manager talent to rural area.",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.550438",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "Help attracting marketing manager talent to rural area."
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "tbonedawg44",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "budget_medium_budget",
+        "intent_high",
+        "cold_lead",
+        "size_freelancer",
+        "industry_marketing"
+      ]
+    },
+    "localcasestudy_26181755": {
+      "first_seen": "2025-06-13T11:48:06.042589",
+      "last_updated": "2025-06-13T11:54:23.553679",
+      "lead_score": 39,
+      "lead_quality": "Cold Lead",
+      "author": "localcasestudy",
+      "title": "My Solopreneur Story: From Zero to $100,000/month in 2 years. From corporate America to Freedom.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.553679",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "My Solopreneur Story: From Zero to $100,000/month in 2 years. From corporate America to Freedom."
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "localcasestudy",
+        "emails": [],
+        "companies_mentioned": [
+          "night hoping to find something that works",
+          "500k",
+          "the end of the tunnel"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "intent_medium",
+        "size_small_business",
+        "cold_lead",
+        "industry_saas_tech"
+      ]
+    },
+    "arseniy899_85385936": {
+      "first_seen": "2025-06-13T11:48:06.047016",
+      "last_updated": "2025-06-13T11:54:23.557039",
+      "lead_score": 35.0,
+      "lead_quality": "Cold Lead",
+      "author": "arseniy899",
+      "title": "Getting started with custom IoT and Software B2B StartUp on cold-only outreach",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.557039",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0.0,
+          "content_snippet": "Getting started with custom IoT and Software B2B StartUp on cold-only outreach"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "arseniy899",
+        "emails": [],
+        "companies_mentioned": [
+          "one industry at first"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "intent_medium",
+        "size_small_business",
+        "cold_lead",
+        "industry_marketing"
+      ]
+    },
+    "Flootson_53035887": {
+      "first_seen": "2025-06-13T11:48:06.049501",
+      "last_updated": "2025-06-13T11:54:23.560594",
+      "lead_score": 35,
+      "lead_quality": "Cold Lead",
+      "author": "Flootson",
+      "title": "How I've been making over 10k / mon. since 20 (25 now)",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.560594",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "How I've been making over 10k / mon. since 20 (25 now)"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Flootson",
+        "emails": [],
+        "companies_mentioned": [
+          "19",
+          "the time into self improvement",
+          "the time"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "industry_logistics"
+      ]
+    },
+    "_Ok_Entrepreneur__58285066": {
+      "first_seen": "2025-06-13T11:48:06.053092",
+      "last_updated": "2025-06-13T11:54:23.566076",
+      "lead_score": 33,
+      "lead_quality": "Cold Lead",
+      "author": "_Ok_Entrepreneur_",
+      "title": "As a fresh online marketing manager, I feel like falling into a void. Please help me out! ",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.566076",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "As a fresh online marketing manager, I feel like falling into a void. Please help me out! "
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "_Ok_Entrepreneur_",
+        "emails": [],
+        "companies_mentioned": [
+          "the moment i feel lost and i want to keep this job"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "industry_marketing",
+        "intent_high"
+      ]
+    },
+    "ChangingBusiness_-3746861": {
+      "first_seen": "2025-06-13T11:48:06.057868",
+      "last_updated": "2025-06-13T11:54:23.569699",
+      "lead_score": 33,
+      "lead_quality": "Cold Lead",
+      "author": "ChangingBusiness",
+      "title": "I\u2019m going to change how business is done. Owner can only make 10x what lowest paid employee makes. 2 funds where 40% of all profits go into and get divided among all employees evenly. Starting a marketing agency with little money and going to posit results everyday. Help me finalize the plan or join",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.569699",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "I\u2019m going to change how business is done. Owner can only make 10x what lowest paid employee makes. 2"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "ChangingBusiness",
+        "emails": [],
+        "companies_mentioned": [
+          "a time with a new business model",
+          "the top",
+          "least double what the highest paid guys earn"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "budget_medium_budget",
+        "size_small_business",
+        "cold_lead",
+        "industry_marketing"
+      ]
+    },
+    "DeltaFatigue_51499288": {
+      "first_seen": "2025-06-13T11:48:06.060216",
+      "last_updated": "2025-06-13T11:54:23.573456",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "DeltaFatigue",
+      "title": "How can I market better to get new customers?",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.573456",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "How can I market better to get new customers?"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "DeltaFatigue",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "size_freelancer",
+        "cold_lead",
+        "industry_marketing",
+        "intent_high"
+      ]
+    },
+    "Steelsixactual_-1999880": {
+      "first_seen": "2025-06-13T11:48:06.069356",
+      "last_updated": "2025-06-13T11:54:23.581846",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "Steelsixactual",
+      "title": "Stripe will destroy your business",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.581846",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "Stripe will destroy your business"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Steelsixactual",
+        "emails": [
+          "heretohelp@stripe.com",
+          "heretohelp@stripe.com",
+          "patrick@stripe.com"
+        ],
+        "companies_mentioned": [],
+        "social_links": [
+          "stripe.com",
+          "stripe.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "intent_medium",
+        "size_freelancer",
+        "cold_lead",
+        "industry_fintech"
+      ]
+    },
+    "castoro800_-4879205": {
+      "first_seen": "2025-06-13T11:48:06.072837",
+      "last_updated": "2025-06-13T11:54:23.584897",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "castoro800",
+      "title": "How do you find people to promote a freelance business and structure a collaboration?",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1148",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [
+        {
+          "timestamp": "2025-06-13T11:54:23.584897",
+          "activity": "reddit_post",
+          "campaign": "intelligent_search_20250613_1154",
+          "score_change": 0,
+          "content_snippet": "How do you find people to promote a freelance business and structure a collaboration?"
+        }
+      ],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "castoro800",
+        "emails": [],
+        "companies_mentioned": [
+          "finding clients"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "size_freelancer",
+        "cold_lead",
+        "intent_high"
+      ]
+    },
+    "Sim_Strategy_-6933946": {
+      "first_seen": "2025-06-13T12:12:44.248176",
+      "last_updated": "2025-06-13T12:12:44.248176",
+      "lead_score": 75,
+      "lead_quality": "Hot Lead",
+      "author": "Sim_Strategy",
+      "title": "I'm an SEO/Digital Marketing Consultant...I just helped take a client's eCommerce company from just 3 total sales, to nearly $100,00/mo revenue on a bootstrap budget - in less than 3 months. Here's a long-ass post with some takeaways & strategies I used to get there.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "Sim_Strategy",
+        "emails": [],
+        "companies_mentioned": [
+          "least skim through",
+          "first",
+          "all"
+        ],
+        "social_links": [
+          "drommabed.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_marketing",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "W1ZZ4RD_-5853663": {
+      "first_seen": "2025-06-13T12:12:44.254210",
+      "last_updated": "2025-06-13T12:12:44.254210",
+      "lead_score": 75,
+      "lead_quality": "Hot Lead",
+      "author": "W1ZZ4RD",
+      "title": "3 months ago I posted the exact process on how I sold $150,000 selling T-shirt on Amazon. I will now explain the exact steps you can take to earn your first $1,000,000 selling on Amazon via the Shopify integration with ZERO inventory.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "W1ZZ4RD",
+        "emails": [],
+        "companies_mentioned": [
+          "the very end of 2015",
+          "dominating the print on demand",
+          "least familiar with shopify as a content management system and online store payment processor"
+        ],
+        "social_links": [
+          "reddit.com",
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_high",
+        "size_freelancer",
+        "industry_ecommerce",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "lickitysplitstyle_56822813": {
+      "first_seen": "2025-06-13T12:12:44.258790",
+      "last_updated": "2025-06-13T12:12:44.258790",
+      "lead_score": 67,
+      "lead_quality": "Warm Lead",
+      "author": "lickitysplitstyle",
+      "title": "Hopefully helpful advice if you're looking for a job in Marketing",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "no_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "lickitysplitstyle",
+        "emails": [],
+        "companies_mentioned": [
+          "the right time",
+          "least 15",
+          "times the content is dense"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "size_freelancer",
+        "industry_marketing",
+        "budget_no_budget",
+        "urgent"
+      ]
+    },
+    "AnabelBain_23766326": {
+      "first_seen": "2025-06-13T12:12:44.263067",
+      "last_updated": "2025-06-13T12:12:44.263067",
+      "lead_score": 65,
+      "lead_quality": "Warm Lead",
+      "author": "AnabelBain",
+      "title": "Email Marketing is easy. The EXACT email flows we used to help our clients earn an extra $100,000/year for their stores. Here is how how you can implement them too in under 2 minutes.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "AnabelBain",
+        "emails": [],
+        "companies_mentioned": [
+          "the time of checkout",
+          "the check out to avail",
+          "this"
+        ],
+        "social_links": [
+          "shopify.com",
+          "emailwish.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "industry_ecommerce"
+      ]
+    },
+    "ADreamerNation_-6692805": {
+      "first_seen": "2025-06-13T12:12:44.268075",
+      "last_updated": "2025-06-13T12:12:44.268075",
+      "lead_score": 65,
+      "lead_quality": "Warm Lead",
+      "author": "ADreamerNation",
+      "title": "I (23 y/o) make $740,000 a Year with Mobile Apps - AMA",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "ADreamerNation",
+        "emails": [],
+        "companies_mentioned": [
+          "the end need be",
+          "the time",
+          "the time"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "size_small_business",
+        "industry_marketing",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "lazymentors_-3686484": {
+      "first_seen": "2025-06-13T12:12:44.271198",
+      "last_updated": "2025-06-13T12:12:44.271198",
+      "lead_score": 59,
+      "lead_quality": "Warm Lead",
+      "author": "lazymentors",
+      "title": "[Ultimate List] A list of Marketing Tools That I\u2019ve tested over the years and found helpful to do better marketing with less work. More than 50 Tools To Help you with Marketing, Copywriting & Sales!",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "medium",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "lazymentors",
+        "emails": [],
+        "companies_mentioned": [
+          "the beginning don",
+          "real",
+          "content structuring like me"
+        ],
+        "social_links": [
+          "jaskaransaini.com",
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_medium",
+        "industry_marketing"
+      ]
+    },
+    "tom_spur_86943000": {
+      "first_seen": "2025-06-13T12:12:44.274404",
+      "last_updated": "2025-06-13T12:12:44.274404",
+      "lead_score": 51,
+      "lead_quality": "Warm Lead",
+      "author": "tom_spur",
+      "title": "My first day in a job in marketing - hated it and I'm devastated. Need help.",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "tom_spur",
+        "emails": [],
+        "companies_mentioned": [
+          "numbers",
+          "odd times"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "industry_media",
+        "urgent"
+      ]
+    },
+    "applextrent_10056496": {
+      "first_seen": "2025-06-13T12:12:44.281092",
+      "last_updated": "2025-06-13T12:12:44.281092",
+      "lead_score": 51,
+      "lead_quality": "Warm Lead",
+      "author": "applextrent",
+      "title": "No one values marketing anymore even when I over deliver",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.3,
+      "contact_info": {
+        "reddit_username": "applextrent",
+        "emails": [],
+        "companies_mentioned": [
+          "this point",
+          "this point"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_saas_tech"
+      ]
+    },
+    "johnstevens456_-4252301": {
+      "first_seen": "2025-06-13T12:12:44.285015",
+      "last_updated": "2025-06-13T12:12:44.285015",
+      "lead_score": 51,
+      "lead_quality": "Warm Lead",
+      "author": "johnstevens456",
+      "title": "I used to emotionally bond with my employees, now I don\u2019t even ask about their weekend.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Low",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "johnstevens456",
+        "emails": [],
+        "companies_mentioned": [
+          "some point",
+          "all",
+          "them to bail them out"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_low",
+        "size_freelancer"
+      ]
+    },
+    "johnrushx_-7770860": {
+      "first_seen": "2025-06-13T12:12:44.293674",
+      "last_updated": "2025-06-13T12:12:44.293674",
+      "lead_score": 51,
+      "lead_quality": "Warm Lead",
+      "author": "johnrushx",
+      "title": "If only someone told me this before my first startup",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "johnrushx",
+        "emails": [],
+        "companies_mentioned": [
+          "the early stage",
+          "some point",
+          "all until pmf"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "size_small_business",
+        "industry_marketing",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "Imaginary_Roll3958_30104521": {
+      "first_seen": "2025-06-13T12:12:44.297410",
+      "last_updated": "2025-06-13T12:12:44.297410",
+      "lead_score": 47,
+      "lead_quality": "Cold Lead",
+      "author": "Imaginary_Roll3958",
+      "title": "Started a kayak rental business and scaled it to $30,000 a month",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "Imaginary_Roll3958",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_media",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "Inner-Worldliness785_-4546903": {
+      "first_seen": "2025-06-13T12:12:44.303417",
+      "last_updated": "2025-06-13T12:12:44.303417",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "Inner-Worldliness785",
+      "title": "Burned out senior marketer team of 1 expected to do cold calls. Help?",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Inner-Worldliness785",
+        "emails": [],
+        "companies_mentioned": [
+          "first i did not know i was going to do sales",
+          "strategy but i don"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "size_small_business",
+        "industry_marketing",
+        "budget_low_budget"
+      ]
+    },
+    "anh690136_-3103974": {
+      "first_seen": "2025-06-13T12:12:44.309431",
+      "last_updated": "2025-06-13T12:12:44.309431",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "anh690136",
+      "title": "[Free Sharing] 300 sites to promote your business",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "anh690136",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "size_small_business",
+        "urgent"
+      ]
+    },
+    "asata-io_22523903": {
+      "first_seen": "2025-06-13T12:12:44.314073",
+      "last_updated": "2025-06-13T12:12:44.314073",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "asata-io",
+      "title": "GUIDE TO HOW BECOME A MILLIONAIRE. For younglings, so they stop asking the same thing every other post.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "freelancer",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.3,
+      "contact_info": {
+        "reddit_username": "asata-io",
+        "emails": [],
+        "companies_mentioned": [
+          "least from your highschool",
+          "a young age",
+          "this stage"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "size_freelancer",
+        "industry_ecommerce",
+        "budget_low_budget"
+      ]
+    },
+    "BiancaChambers_74142589": {
+      "first_seen": "2025-06-13T12:12:44.317914",
+      "last_updated": "2025-06-13T12:12:44.317914",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "BiancaChambers",
+      "title": "My boss expects my side business to give products to his business for free? Apparently he's pissed?",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "BiancaChambers",
+        "emails": [],
+        "companies_mentioned": [
+          "a college",
+          "the moment for a few reasons"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_ecommerce"
+      ]
+    },
+    "seostevew_66997911": {
+      "first_seen": "2025-06-13T12:12:44.328480",
+      "last_updated": "2025-06-13T12:12:44.328480",
+      "lead_score": 41.6,
+      "lead_quality": "Cold Lead",
+      "author": "seostevew",
+      "title": "Viable Business Idea or Should I Scrap It? (No Promotion)",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "seostevew",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_ecommerce"
+      ]
+    },
+    "tbonedawg44_50879201": {
+      "first_seen": "2025-06-13T12:12:44.333685",
+      "last_updated": "2025-06-13T12:12:44.333685",
+      "lead_score": 41,
+      "lead_quality": "Cold Lead",
+      "author": "tbonedawg44",
+      "title": "Help attracting marketing manager talent to rural area.",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "tbonedawg44",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "size_freelancer",
+        "industry_marketing",
+        "budget_medium_budget"
+      ]
+    },
+    "localcasestudy_63959601": {
+      "first_seen": "2025-06-13T12:12:44.339876",
+      "last_updated": "2025-06-13T12:12:44.339876",
+      "lead_score": 39,
+      "lead_quality": "Cold Lead",
+      "author": "localcasestudy",
+      "title": "My Solopreneur Story: From Zero to $100,000/month in 2 years. From corporate America to Freedom.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "localcasestudy",
+        "emails": [],
+        "companies_mentioned": [
+          "night hoping to find something that works",
+          "500k",
+          "the end of the tunnel"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_saas_tech"
+      ]
+    },
+    "arseniy899_65456675": {
+      "first_seen": "2025-06-13T12:12:44.344907",
+      "last_updated": "2025-06-13T12:12:44.344907",
+      "lead_score": 35.0,
+      "lead_quality": "Cold Lead",
+      "author": "arseniy899",
+      "title": "Getting started with custom IoT and Software B2B StartUp on cold-only outreach",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "arseniy899",
+        "emails": [],
+        "companies_mentioned": [
+          "one industry at first"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_marketing"
+      ]
+    },
+    "Flootson_73483341": {
+      "first_seen": "2025-06-13T12:12:44.355093",
+      "last_updated": "2025-06-13T12:12:44.355093",
+      "lead_score": 35,
+      "lead_quality": "Cold Lead",
+      "author": "Flootson",
+      "title": "How I've been making over 10k / mon. since 20 (25 now)",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Flootson",
+        "emails": [],
+        "companies_mentioned": [
+          "19",
+          "the time into self improvement",
+          "the time"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "industry_logistics"
+      ]
+    },
+    "_Ok_Entrepreneur__-5771913": {
+      "first_seen": "2025-06-13T12:12:44.361585",
+      "last_updated": "2025-06-13T12:12:44.361585",
+      "lead_score": 33,
+      "lead_quality": "Cold Lead",
+      "author": "_Ok_Entrepreneur_",
+      "title": "As a fresh online marketing manager, I feel like falling into a void. Please help me out! ",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "_Ok_Entrepreneur_",
+        "emails": [],
+        "companies_mentioned": [
+          "the moment i feel lost and i want to keep this job"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_marketing"
+      ]
+    },
+    "ChangingBusiness_-8501603": {
+      "first_seen": "2025-06-13T12:12:44.368444",
+      "last_updated": "2025-06-13T12:12:44.368444",
+      "lead_score": 33,
+      "lead_quality": "Cold Lead",
+      "author": "ChangingBusiness",
+      "title": "I\u2019m going to change how business is done. Owner can only make 10x what lowest paid employee makes. 2 funds where 40% of all profits go into and get divided among all employees evenly. Starting a marketing agency with little money and going to posit results everyday. Help me finalize the plan or join",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "ChangingBusiness",
+        "emails": [],
+        "companies_mentioned": [
+          "a time with a new business model",
+          "the top",
+          "least double what the highest paid guys earn"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "size_small_business",
+        "industry_marketing",
+        "budget_medium_budget"
+      ]
+    },
+    "DeltaFatigue_-3548669": {
+      "first_seen": "2025-06-13T12:12:44.371783",
+      "last_updated": "2025-06-13T12:12:44.371783",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "DeltaFatigue",
+      "title": "How can I market better to get new customers?",
+      "subreddit": "marketing",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "DeltaFatigue",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "size_freelancer",
+        "industry_marketing"
+      ]
+    },
+    "Steelsixactual_27433059": {
+      "first_seen": "2025-06-13T12:12:44.378288",
+      "last_updated": "2025-06-13T12:12:44.378288",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "Steelsixactual",
+      "title": "Stripe will destroy your business",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Steelsixactual",
+        "emails": [
+          "heretohelp@stripe.com",
+          "heretohelp@stripe.com",
+          "patrick@stripe.com"
+        ],
+        "companies_mentioned": [],
+        "social_links": [
+          "stripe.com",
+          "stripe.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "size_freelancer",
+        "industry_fintech"
+      ]
+    },
+    "castoro800_79569311": {
+      "first_seen": "2025-06-13T12:12:44.384600",
+      "last_updated": "2025-06-13T12:12:44.384600",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "castoro800",
+      "title": "How do you find people to promote a freelance business and structure a collaboration?",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1212",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "castoro800",
+        "emails": [],
+        "companies_mentioned": [
+          "finding clients"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "size_freelancer"
+      ]
+    },
+    "snowfallstartup_-3553183": {
+      "first_seen": "2025-06-13T12:29:02.605049",
+      "last_updated": "2025-06-13T12:29:02.605049",
+      "lead_score": 59,
+      "lead_quality": "Warm Lead",
+      "author": "snowfallstartup",
+      "title": "From $0 to $323,010.43 in 14 months with a simple startup. The exact Facebook ads, landing pages, website, pricing strategy, sales aids and everything you need to do it yourself in one massive post. Nothing is held back.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1229",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "medium",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "snowfallstartup",
+        "emails": [],
+        "companies_mentioned": [
+          "a real estate brokerage to set appointments for real estate agents",
+          "least 3",
+          "heart"
+        ],
+        "social_links": [
+          "imgur.com",
+          "realtor.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_marketing",
+        "budget_medium_budget"
+      ]
+    },
+    "littlesauz_75364496": {
+      "first_seen": "2025-06-13T12:29:02.615588",
+      "last_updated": "2025-06-13T12:29:02.615588",
+      "lead_score": 57,
+      "lead_quality": "Warm Lead",
+      "author": "littlesauz",
+      "title": "Made $200k last year while still in college",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1229",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "littlesauz",
+        "emails": [],
+        "companies_mentioned": [
+          "this point but here goes",
+          "a restaurant for",
+          "my desk"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "industry_ecommerce",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "RedRedKrovy_46356321": {
+      "first_seen": "2025-06-13T12:29:02.624353",
+      "last_updated": "2025-06-13T12:29:02.624353",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "RedRedKrovy",
+      "title": "Best place to find a web page graphics designer???",
+      "subreddit": "web_design",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1229",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "RedRedKrovy",
+        "emails": [],
+        "companies_mentioned": [
+          "the moment",
+          "getting a website design business off the ground so i"
+        ],
+        "social_links": [
+          "lurkingfears.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high"
+      ]
+    },
+    "effyochicken_78669887": {
+      "first_seen": "2025-06-13T12:29:02.630819",
+      "last_updated": "2025-06-13T12:29:02.630819",
+      "lead_score": 41,
+      "lead_quality": "Cold Lead",
+      "author": "effyochicken",
+      "title": "It feels like every other day there's a post in here along the lines of \"I'm starting a web design company, how do I go about creating my first website?\" or \"I'm creating a sales consulting firm, how should I obtain my first few customers?\"",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1229",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Low",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "effyochicken",
+        "emails": [],
+        "companies_mentioned": [
+          "driving engagement",
+          "a single attribute or skill",
+          "least 5"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_low",
+        "size_freelancer",
+        "industry_marketing"
+      ]
+    },
+    "Calm-Bathroom-2030_-2220141": {
+      "first_seen": "2025-06-13T12:29:02.636077",
+      "last_updated": "2025-06-13T12:29:02.636077",
+      "lead_score": 39,
+      "lead_quality": "Cold Lead",
+      "author": "Calm-Bathroom-2030",
+      "title": "Paid $25K for this WordPress site from a dev shop in Eastern Europe\u2026 is this normal?",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1229",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.3,
+      "contact_info": {
+        "reddit_username": "Calm-Bathroom-2030",
+        "emails": [],
+        "companies_mentioned": [
+          "the end",
+          "this point"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "size_freelancer",
+        "budget_low_budget"
+      ]
+    },
+    "localcasestudy_-8009910": {
+      "first_seen": "2025-06-13T12:29:02.641993",
+      "last_updated": "2025-06-13T12:29:02.641993",
+      "lead_score": 39,
+      "lead_quality": "Cold Lead",
+      "author": "localcasestudy",
+      "title": "My Solopreneur Story: From Zero to $100,000/month in 2 years. From corporate America to Freedom.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1229",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "localcasestudy",
+        "emails": [],
+        "companies_mentioned": [
+          "night hoping to find something that works",
+          "500k",
+          "the end of the tunnel"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_saas_tech"
+      ]
+    },
+    "liubanghoudai24_33486114": {
+      "first_seen": "2025-06-13T12:29:02.647608",
+      "last_updated": "2025-06-13T12:29:02.647608",
+      "lead_score": 33,
+      "lead_quality": "Cold Lead",
+      "author": "liubanghoudai24",
+      "title": "Netlify just sent me a $104K bill for a simple static site",
+      "subreddit": "webdev",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1229",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "liubanghoudai24",
+        "emails": [],
+        "companies_mentioned": [
+          "first i thought this is a joke or some scam email but after checking my dashboard it seems like i am truly owing them 104k dollars",
+          "least a spend limit"
+        ],
+        "social_links": [
+          "ycombinator.com",
+          "github.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "budget_medium_budget"
+      ]
+    },
+    "Notsureif0010_-2770755": {
+      "first_seen": "2025-06-13T12:29:02.658222",
+      "last_updated": "2025-06-13T12:29:02.658222",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "Notsureif0010",
+      "title": "I need to create a E Commerce website for my hot sauce company. Is Shopify the best option?",
+      "subreddit": "web_design",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1229",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Notsureif0010",
+        "emails": [],
+        "companies_mentioned": [
+          "a university and i feel like i really never learned much from it"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_ecommerce"
+      ]
+    },
+    "GoKone_-7892699": {
+      "first_seen": "2025-06-13T13:06:36.995489",
+      "last_updated": "2025-06-13T13:06:36.995489",
+      "lead_score": 91,
+      "lead_quality": "Hot Lead",
+      "author": "GoKone",
+      "title": "How I've Sold $500k in 8 Months as a One-Man-Show",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "enterprise",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "GoKone",
+        "emails": [
+          "hello@comfortableclub.com"
+        ],
+        "companies_mentioned": [
+          "the",
+          "half the price of retail",
+          "comfortable club"
+        ],
+        "social_links": [
+          "comfortableclub.com",
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_high",
+        "size_enterprise",
+        "industry_logistics",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "youngrichntasteless_-3119971": {
+      "first_seen": "2025-06-13T13:06:37.006296",
+      "last_updated": "2025-06-13T13:06:37.006296",
+      "lead_score": 83,
+      "lead_quality": "Hot Lead",
+      "author": "youngrichntasteless",
+      "title": "$200k/mo selling hangover pills.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "youngrichntasteless",
+        "emails": [
+          "hello@flyby.co"
+        ],
+        "companies_mentioned": [
+          "nyu",
+          "home for almost a year before things started really taking off",
+          "full price and just wait for the promo campaign"
+        ],
+        "social_links": [
+          "starterstory.com",
+          "starterstory.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_high",
+        "size_small_business",
+        "industry_logistics",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "adventurepaul_-3525726": {
+      "first_seen": "2025-06-13T13:06:37.019531",
+      "last_updated": "2025-06-13T13:06:37.019531",
+      "lead_score": 81.4,
+      "lead_quality": "Hot Lead",
+      "author": "adventurepaul",
+      "title": "E-commerce Industry News Recap \ud83d\udd25 Week of May 12th, 2025",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "adventurepaul",
+        "emails": [],
+        "companies_mentioned": [
+          "which that number dropped",
+          "drop",
+          "this time"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_high",
+        "size_small_business",
+        "industry_ecommerce",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "W1ZZ4RD_-8723209": {
+      "first_seen": "2025-06-13T13:06:37.035118",
+      "last_updated": "2025-06-13T13:06:37.035118",
+      "lead_score": 75,
+      "lead_quality": "Hot Lead",
+      "author": "W1ZZ4RD",
+      "title": "3 months ago I posted the exact process on how I sold $150,000 selling T-shirt on Amazon. I will now explain the exact steps you can take to earn your first $1,000,000 selling on Amazon via the Shopify integration with ZERO inventory.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "W1ZZ4RD",
+        "emails": [],
+        "companies_mentioned": [
+          "the very end of 2015",
+          "dominating the print on demand",
+          "least familiar with shopify as a content management system and online store payment processor"
+        ],
+        "social_links": [
+          "reddit.com",
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_high",
+        "size_freelancer",
+        "industry_ecommerce",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "Sim_Strategy_14793824": {
+      "first_seen": "2025-06-13T13:06:37.042810",
+      "last_updated": "2025-06-13T13:06:37.042810",
+      "lead_score": 75,
+      "lead_quality": "Hot Lead",
+      "author": "Sim_Strategy",
+      "title": "I'm an SEO/Digital Marketing Consultant...I just helped take a client's eCommerce company from just 3 total sales, to nearly $100,00/mo revenue on a bootstrap budget - in less than 3 months. Here's a long-ass post with some takeaways & strategies I used to get there.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "Sim_Strategy",
+        "emails": [],
+        "companies_mentioned": [
+          "least skim through",
+          "first",
+          "all"
+        ],
+        "social_links": [
+          "drommabed.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_marketing",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "steviedrive_40726406": {
+      "first_seen": "2025-06-13T13:06:37.048454",
+      "last_updated": "2025-06-13T13:06:37.048454",
+      "lead_score": 73,
+      "lead_quality": "Hot Lead",
+      "author": "steviedrive",
+      "title": "Finding profitable niches is not hard. A step-by-step Tutorial for beginners that works every time",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "steviedrive",
+        "emails": [],
+        "companies_mentioned": [
+          "play there",
+          "the end of the day",
+          "least somewhat into"
+        ],
+        "social_links": [
+          "reddit.com",
+          "answerthepublic.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_high",
+        "size_small_business",
+        "industry_ecommerce",
+        "budget_medium_budget"
+      ]
+    },
+    "ClawedPlatypus_29226301": {
+      "first_seen": "2025-06-13T13:06:37.063347",
+      "last_updated": "2025-06-13T13:06:37.063347",
+      "lead_score": 67,
+      "lead_quality": "Warm Lead",
+      "author": "ClawedPlatypus",
+      "title": "I closed 200+ freelance deals with this script",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "ClawedPlatypus",
+        "emails": [],
+        "companies_mentioned": [
+          "sales",
+          "this point",
+          "the bottom of the doc"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "size_freelancer",
+        "industry_edtech",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "ecomdav3_33871681": {
+      "first_seen": "2025-06-13T13:06:37.073380",
+      "last_updated": "2025-06-13T13:06:37.073380",
+      "lead_score": 67,
+      "lead_quality": "Warm Lead",
+      "author": "ecomdav3",
+      "title": "I've taken dozens of startups from launch through their first millions in sales. Recently I helped an ecommerce client grow on a bootstrapped budget to a 9-figure M&A exit. Here's some of my top advice / lessons learned for founders aiming to scale a brand BIG",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "ecomdav3",
+        "emails": [],
+        "companies_mentioned": [
+          "our door",
+          "seeking out subject matter experts and leaning on their experience",
+          "all until you start taking significant market share"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "size_freelancer",
+        "industry_marketing",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "localcasestudy_76382536": {
+      "first_seen": "2025-06-13T13:06:37.080173",
+      "last_updated": "2025-06-13T13:06:37.080173",
+      "lead_score": 65,
+      "lead_quality": "Warm Lead",
+      "author": "localcasestudy",
+      "title": "4 years ago I wrote a case study on reddit on my $4k per month local business. I've since built that company into a multi-million dollar company and the redditors that followed are now doing a combined $50 million dollars per year! Updated case study and AMA.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "mid_market",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "localcasestudy",
+        "emails": [],
+        "companies_mentioned": [
+          "all",
+          "everyone",
+          "their websites"
+        ],
+        "social_links": [
+          "reddit.com",
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_medium",
+        "size_mid_market",
+        "industry_ecommerce",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "kobyc_-1822804": {
+      "first_seen": "2025-06-13T13:06:37.089249",
+      "last_updated": "2025-06-13T13:06:37.089249",
+      "lead_score": 59,
+      "lead_quality": "Warm Lead",
+      "author": "kobyc",
+      "title": "516 days ago at 20 years old I quit my job, dropped out of school, and founded an online hippie shop. This is how it turned out.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "kobyc",
+        "emails": [],
+        "companies_mentioned": [
+          "20 years old i quit my job",
+          "the time decided to start a hippie store",
+          "the time facebook organic reach was doing amazing"
+        ],
+        "social_links": [
+          "hippieshope.com",
+          "blogger.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_ecommerce",
+        "urgent"
+      ]
+    },
+    "littlesauz_73693075": {
+      "first_seen": "2025-06-13T13:06:37.103749",
+      "last_updated": "2025-06-13T13:06:37.103749",
+      "lead_score": 57,
+      "lead_quality": "Warm Lead",
+      "author": "littlesauz",
+      "title": "Made $200k last year while still in college",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "littlesauz",
+        "emails": [],
+        "companies_mentioned": [
+          "this point but here goes",
+          "a restaurant for",
+          "my desk"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "industry_ecommerce",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "thisdudegottheruns_29511686": {
+      "first_seen": "2025-06-13T13:06:37.120661",
+      "last_updated": "2025-06-13T13:06:37.120661",
+      "lead_score": 57,
+      "lead_quality": "Warm Lead",
+      "author": "thisdudegottheruns",
+      "title": "16-year update: I started a business from nothing in 2006. I'm selling it for over $20 Million.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "enterprise",
+      "budget_level": "no_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.3,
+      "contact_info": {
+        "reddit_username": "thisdudegottheruns",
+        "emails": [],
+        "companies_mentioned": [
+          "the time the business was doing about",
+          "that point the business had grown to about",
+          "the time"
+        ],
+        "social_links": [
+          "reddit.com",
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "size_enterprise",
+        "industry_logistics",
+        "budget_no_budget"
+      ]
+    },
+    "Bunny_Ange_70522786": {
+      "first_seen": "2025-06-13T13:06:37.128009",
+      "last_updated": "2025-06-13T13:06:37.128009",
+      "lead_score": 57,
+      "lead_quality": "Warm Lead",
+      "author": "Bunny_Ange",
+      "title": "Case study: $150k with 1 product.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.5,
+      "contact_info": {
+        "reddit_username": "Bunny_Ange",
+        "emails": [],
+        "companies_mentioned": [
+          "least 10",
+          "least a 3x markup",
+          "once"
+        ],
+        "social_links": [
+          "temu.com",
+          "kwcdn.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "industry_ecommerce",
+        "budget_medium_budget",
+        "medium_urgency"
+      ]
+    },
+    "mbertulli_73207982": {
+      "first_seen": "2025-06-13T13:06:37.143813",
+      "last_updated": "2025-06-13T13:06:37.143813",
+      "lead_score": 51,
+      "lead_quality": "Warm Lead",
+      "author": "mbertulli",
+      "title": "Building an 8 figure business in 9 years - Lessons Learned, FAQs, Big-Ass Brain Dump",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "low_budget",
+      "competitive_pressure": "medium",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "mbertulli",
+        "emails": [],
+        "companies_mentioned": [
+          "netsuite at the time and saw how much business we referred out to service partners and thought that i",
+          "play for someone to prescribe one way of doing things as the way to build a great business",
+          "the time"
+        ],
+        "social_links": [
+          "demacmedia.com",
+          "pelacase.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_ecommerce",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "sigmaschmooz_-8706946": {
+      "first_seen": "2025-06-13T13:06:37.156747",
+      "last_updated": "2025-06-13T13:06:37.156747",
+      "lead_score": 41,
+      "lead_quality": "Cold Lead",
+      "author": "sigmaschmooz",
+      "title": "Buying in China and selling in USA. The New American Dream | My Story",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Low",
+      "business_size": "freelancer",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "sigmaschmooz",
+        "emails": [],
+        "companies_mentioned": [
+          "u of florida",
+          "the time",
+          "the time"
+        ],
+        "social_links": [
+          "businessweek.com",
+          "tikkrwatch.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_low",
+        "size_freelancer",
+        "industry_ecommerce",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "Jadafaa_24711204": {
+      "first_seen": "2025-06-13T13:06:37.168183",
+      "last_updated": "2025-06-13T13:06:37.168183",
+      "lead_score": 39,
+      "lead_quality": "Cold Lead",
+      "author": "Jadafaa",
+      "title": "A year ago, I started a candle business as a side hustle with $100 and I made 25k in total sales. It's not much, but it's growing slowly and surely.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "Jadafaa",
+        "emails": [],
+        "companies_mentioned": [
+          "the time",
+          "this point",
+          "other e"
+        ],
+        "social_links": [
+          "imgur.com",
+          "imgur.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "industry_media",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "nycguy56_-3450849": {
+      "first_seen": "2025-06-13T13:06:37.177857",
+      "last_updated": "2025-06-13T13:06:37.177857",
+      "lead_score": 35,
+      "lead_quality": "Cold Lead",
+      "author": "nycguy56",
+      "title": "I need a sanity check - keep running or shutdown my growing but unprofitable business? ($250k in sales)",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "nycguy56",
+        "emails": [],
+        "companies_mentioned": [
+          "around 3x blended roas",
+          "it"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "industry_ecommerce"
+      ]
+    },
+    "Dexxxta_-1767548": {
+      "first_seen": "2025-06-13T13:06:37.189736",
+      "last_updated": "2025-06-13T13:06:37.189736",
+      "lead_score": 33,
+      "lead_quality": "Cold Lead",
+      "author": "Dexxxta",
+      "title": "I failed as an entrepreneur. Being an entrepreneur ruined my life.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "high_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Dexxxta",
+        "emails": [],
+        "companies_mentioned": [
+          "first my version of the american dream was work hard",
+          "school graduated with a 4",
+          "that time so i decided ill come back to it once i"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "industry_ecommerce",
+        "budget_high_budget"
+      ]
+    },
+    "TrueIdentityScout_-7886265": {
+      "first_seen": "2025-06-13T13:06:37.198672",
+      "last_updated": "2025-06-13T13:06:37.198672",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "TrueIdentityScout",
+      "title": "I want to start an online store but don't know where to begin.",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "TrueIdentityScout",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_ecommerce"
+      ]
+    },
+    "nuno456_-6313610": {
+      "first_seen": "2025-06-13T13:06:37.207858",
+      "last_updated": "2025-06-13T13:06:37.207858",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "nuno456",
+      "title": "Key Components for Building a Successful Online Store",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "nuno456",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "size_freelancer",
+        "industry_ecommerce"
+      ]
+    },
+    "username-fox_-6038501": {
+      "first_seen": "2025-06-13T13:06:37.220667",
+      "last_updated": "2025-06-13T13:06:37.220667",
+      "lead_score": 31,
+      "lead_quality": "Cold Lead",
+      "author": "username-fox",
+      "title": "Web Design: Only started in Jan this year, making over $10,000 consistently every month. Lots of lessons... AMA",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1306",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "small_business",
+      "budget_level": "no_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "username-fox",
+        "emails": [],
+        "companies_mentioned": [
+          "your computer",
+          "the time i was doing some legal work for canada and the person i was working with had a terrible website",
+          "that oil refinery this winter"
+        ],
+        "social_links": [
+          "codecademy.com",
+          "udemy.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "size_small_business",
+        "industry_ecommerce",
+        "budget_no_budget",
+        "urgent"
+      ]
+    },
+    "ClawedPlatypus_-2235937": {
+      "first_seen": "2025-06-13T13:18:12.614598",
+      "last_updated": "2025-06-13T13:18:12.614598",
+      "lead_score": 84,
+      "lead_quality": "Hot Lead",
+      "author": "ClawedPlatypus",
+      "title": "I closed 200+ freelance deals with this script",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "freelancer",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "ClawedPlatypus",
+        "emails": [],
+        "companies_mentioned": [
+          "sales",
+          "this point",
+          "the bottom of the doc"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_high",
+        "size_freelancer",
+        "industry_edtech",
+        "budget_low_budget",
+        "urgent"
+      ]
+    },
+    "sigmaschmooz_-6183517": {
+      "first_seen": "2025-06-13T13:18:12.630880",
+      "last_updated": "2025-06-13T13:18:12.630880",
+      "lead_score": 73,
+      "lead_quality": "Hot Lead",
+      "author": "sigmaschmooz",
+      "title": "Woodies: 1 Million Revenue, 0 Employees | Every Tool I Use",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "sigmaschmooz",
+        "emails": [
+          "Cory@Woodies.com"
+        ],
+        "companies_mentioned": [
+          "the bar and having to reset 20 different subscriptions",
+          "a time",
+          "upgraded images is my go"
+        ],
+        "social_links": [
+          "shopify.com",
+          "shopify.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_high",
+        "industry_logistics"
+      ]
+    },
+    "importdojo_-8354132": {
+      "first_seen": "2025-06-13T13:18:12.640707",
+      "last_updated": "2025-06-13T13:18:12.640707",
+      "lead_score": 72,
+      "lead_quality": "Hot Lead",
+      "author": "importdojo",
+      "title": "Alibaba Hacks: The most efficient way to find suppliers on the biggest sourcing website",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "importdojo",
+        "emails": [],
+        "companies_mentioned": [
+          "my previous",
+          "this point you want to filter your results for the most relevant suppliers",
+          "this again"
+        ],
+        "social_links": [
+          "importdojo.com",
+          "importdojo.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "hot_lead",
+        "intent_high",
+        "industry_manufacturing",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "airawear_-1017426": {
+      "first_seen": "2025-06-13T13:18:12.651684",
+      "last_updated": "2025-06-13T13:18:12.651684",
+      "lead_score": 66,
+      "lead_quality": "Warm Lead",
+      "author": "airawear",
+      "title": "To all new startup founders, here's how 17 different startups hustled for their first customers. If you're feeling disheartened, I hope their stories will inspire you to keep on going!",
+      "subreddit": "startups",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Low",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "airawear",
+        "emails": [],
+        "companies_mentioned": [
+          "the meetings install the app",
+          "making pop culture",
+          "the end of the day"
+        ],
+        "social_links": [
+          "referralcandy.com",
+          "referralcandy.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_low",
+        "size_small_business",
+        "industry_ecommerce",
+        "budget_medium_budget",
+        "urgent"
+      ]
+    },
+    "starterman001_-7309633": {
+      "first_seen": "2025-06-13T13:18:12.658544",
+      "last_updated": "2025-06-13T13:18:12.658544",
+      "lead_score": 59,
+      "lead_quality": "Warm Lead",
+      "author": "starterman001",
+      "title": "I became a self made millionaire at 25 in a third world country. I will share my story here:",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "starterman001",
+        "emails": [],
+        "companies_mentioned": [
+          "25 in a third world country",
+          "7 later selling candy to schoolmates at 10",
+          "15 i decided to study business and become either an over achiever employee or a business owner"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_medium",
+        "industry_logistics",
+        "budget_low_budget"
+      ]
+    },
+    "polaroidpill_-1028852": {
+      "first_seen": "2025-06-13T13:18:12.672203",
+      "last_updated": "2025-06-13T13:18:12.672203",
+      "lead_score": 55,
+      "lead_quality": "Warm Lead",
+      "author": "polaroidpill",
+      "title": "Recommendations on sourcing a clothing factory in China",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "polaroidpill",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "industry_manufacturing"
+      ]
+    },
+    "Santon-Koel_19228618": {
+      "first_seen": "2025-06-13T13:18:12.694477",
+      "last_updated": "2025-06-13T13:18:12.694477",
+      "lead_score": 55,
+      "lead_quality": "Warm Lead",
+      "author": "Santon-Koel",
+      "title": "Selling on Amazon is dead",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Santon-Koel",
+        "emails": [],
+        "companies_mentioned": [
+          "the start of every correspondence they spam you with images of manufacturing and pretend like they are the providers"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_medium",
+        "industry_sourcing",
+        "budget_low_budget"
+      ]
+    },
+    "Kaezumi_-4632950": {
+      "first_seen": "2025-06-13T13:18:12.714364",
+      "last_updated": "2025-06-13T13:18:12.714364",
+      "lead_score": 55,
+      "lead_quality": "Warm Lead",
+      "author": "Kaezumi",
+      "title": "People who used China as their source of production but don't live in China, how do you have quality control?",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Kaezumi",
+        "emails": [],
+        "companies_mentioned": [
+          "doesn"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "industry_manufacturing"
+      ]
+    },
+    "TryingHard253_-7138694": {
+      "first_seen": "2025-06-13T13:18:12.734267",
+      "last_updated": "2025-06-13T13:18:12.734267",
+      "lead_score": 54.4,
+      "lead_quality": "Warm Lead",
+      "author": "TryingHard253",
+      "title": "If you are a clothing/fashion brand in the US, sourcing from China and are affected by the tariffs, then Turkey might be another option for you.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "TryingHard253",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "warm_lead",
+        "intent_high",
+        "industry_sourcing",
+        "budget_low_budget"
+      ]
+    },
+    "piko_riko_77022294": {
+      "first_seen": "2025-06-13T13:18:12.765216",
+      "last_updated": "2025-06-13T13:18:12.765216",
+      "lead_score": 50,
+      "lead_quality": "Warm Lead",
+      "author": "piko_riko",
+      "title": "See Many Questions About Buying/Importing from China. Been Sourcing/Importing My Own Products For 8+ Years. Ask something.",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "piko_riko",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [
+          "imgur.com",
+          "imgur.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "warm_lead",
+        "size_small_business",
+        "industry_sourcing",
+        "budget_low_budget"
+      ]
+    },
+    "Background_Housing65_-7961303": {
+      "first_seen": "2025-06-13T13:18:12.781274",
+      "last_updated": "2025-06-13T13:18:12.781274",
+      "lead_score": 49,
+      "lead_quality": "Cold Lead",
+      "author": "Background_Housing65",
+      "title": "I\u2019m $141,000 in Debt After Chasing Big Dreams. Sometimes, it\u2019s okay to give up",
+      "subreddit": "smallbusiness",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 1.0,
+      "contact_info": {
+        "reddit_username": "Background_Housing65",
+        "emails": [],
+        "companies_mentioned": [
+          "home",
+          "a time like this",
+          "one point"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing",
+        "urgent"
+      ]
+    },
+    "Efficient_Ad_6653_-4111550": {
+      "first_seen": "2025-06-13T13:18:12.791230",
+      "last_updated": "2025-06-13T13:18:12.791230",
+      "lead_score": 48.8,
+      "lead_quality": "Cold Lead",
+      "author": "Efficient_Ad_6653",
+      "title": "I will not promote ~ building a sourcing/Qc service in China and want to learn what issues you\u2019ve come across.",
+      "subreddit": "startups",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Efficient_Ad_6653",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "size_small_business",
+        "industry_sourcing"
+      ]
+    },
+    "ongodforrealforreal_82035775": {
+      "first_seen": "2025-06-13T13:18:12.803173",
+      "last_updated": "2025-06-13T13:18:12.803173",
+      "lead_score": 47.6,
+      "lead_quality": "Cold Lead",
+      "author": "ongodforrealforreal",
+      "title": "Anyone have experience with sourcing products on made-in-china.com? How to find agents in China",
+      "subreddit": "startups",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "ongodforrealforreal",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [
+          "made-in-china.com",
+          "made-in-china.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "industry_manufacturing"
+      ]
+    },
+    "rdleo_25467362": {
+      "first_seen": "2025-06-13T13:18:12.812413",
+      "last_updated": "2025-06-13T13:18:12.812413",
+      "lead_score": 47,
+      "lead_quality": "Cold Lead",
+      "author": "rdleo",
+      "title": "Quitting my $230k job in finance and starting my sourcing company in China felt weirdly good...",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "rdleo",
+        "emails": [],
+        "companies_mentioned": [
+          "the end of the year",
+          "the start of each day"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing"
+      ]
+    },
+    "fobreezee_-3842629": {
+      "first_seen": "2025-06-13T13:18:12.821674",
+      "last_updated": "2025-06-13T13:18:12.821674",
+      "lead_score": 45,
+      "lead_quality": "Cold Lead",
+      "author": "fobreezee",
+      "title": "Sourcing with Tariffs: Has anyone begun to research moving their production out of China?",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "fobreezee",
+        "emails": [],
+        "companies_mentioned": [
+          "a reasonable price in countries other than china"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "industry_sourcing"
+      ]
+    },
+    "ferero18_-8499104": {
+      "first_seen": "2025-06-13T13:18:12.831886",
+      "last_updated": "2025-06-13T13:18:12.831886",
+      "lead_score": 45,
+      "lead_quality": "Cold Lead",
+      "author": "ferero18",
+      "title": "Best Place/Subreddit to learn about importing/sourcing from China?",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "ferero18",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_sourcing",
+        "budget_low_budget"
+      ]
+    },
+    "imTriibz_-3975212": {
+      "first_seen": "2025-06-13T13:18:12.841358",
+      "last_updated": "2025-06-13T13:18:12.841358",
+      "lead_score": 45,
+      "lead_quality": "Cold Lead",
+      "author": "imTriibz",
+      "title": "My Alibaba supplier stuffed up my order. WHAT TO DO",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.8,
+      "contact_info": {
+        "reddit_username": "imTriibz",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "industry_sourcing",
+        "urgent"
+      ]
+    },
+    "Noodmonk_62475780": {
+      "first_seen": "2025-06-13T13:18:12.856185",
+      "last_updated": "2025-06-13T13:18:12.856185",
+      "lead_score": 44.3,
+      "lead_quality": "Cold Lead",
+      "author": "Noodmonk",
+      "title": "Need Help Sourcing From China",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.8,
+      "contact_info": {
+        "reddit_username": "Noodmonk",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing",
+        "urgent"
+      ]
+    },
+    "Zymez_-3535640": {
+      "first_seen": "2025-06-13T13:18:12.867940",
+      "last_updated": "2025-06-13T13:18:12.867940",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "Zymez",
+      "title": "Are all Alibaba suppliers shit?",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Zymez",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_sourcing"
+      ]
+    },
+    "AntsyNursery58_30894664": {
+      "first_seen": "2025-06-13T13:18:12.878030",
+      "last_updated": "2025-06-13T13:18:12.878030",
+      "lead_score": 43,
+      "lead_quality": "Cold Lead",
+      "author": "AntsyNursery58",
+      "title": "AI Will Make You Extremely Rich or Kill Your Business in 2024",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "medium_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.3,
+      "contact_info": {
+        "reddit_username": "AntsyNursery58",
+        "emails": [],
+        "companies_mentioned": [
+          "which they receive and aggregate information by 200"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "size_small_business",
+        "industry_marketing",
+        "budget_medium_budget"
+      ]
+    },
+    "charigo197_34829434": {
+      "first_seen": "2025-06-13T13:18:12.889254",
+      "last_updated": "2025-06-13T13:18:12.889254",
+      "lead_score": 42.2,
+      "lead_quality": "Cold Lead",
+      "author": "charigo197",
+      "title": "Importing components from China to assemble my products in USA...do I have to pay customs duties?",
+      "subreddit": "startups",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "charigo197",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "industry_marketing"
+      ]
+    },
+    "Professional-Pen9008_-5306362": {
+      "first_seen": "2025-06-13T13:18:12.898629",
+      "last_updated": "2025-06-13T13:18:12.898629",
+      "lead_score": 40.6,
+      "lead_quality": "Cold Lead",
+      "author": "Professional-Pen9008",
+      "title": "sourcing help - china",
+      "subreddit": "smallbusiness",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Professional-Pen9008",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_sourcing"
+      ]
+    },
+    "theNtralbeauty_78946929": {
+      "first_seen": "2025-06-13T13:18:12.908216",
+      "last_updated": "2025-06-13T13:18:12.908216",
+      "lead_score": 40,
+      "lead_quality": "Cold Lead",
+      "author": "theNtralbeauty",
+      "title": "How are you sourcing your products?",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "theNtralbeauty",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing"
+      ]
+    },
+    "toymakerinchina_-4400691": {
+      "first_seen": "2025-06-13T13:18:12.916906",
+      "last_updated": "2025-06-13T13:18:12.916906",
+      "lead_score": 40,
+      "lead_quality": "Cold Lead",
+      "author": "toymakerinchina",
+      "title": "How Are U.S. Small Businesses Handling 104% Tariffs on Products That Can Only Be Sourced from China?",
+      "subreddit": "smallbusiness",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "toymakerinchina",
+        "emails": [],
+        "companies_mentioned": [
+          "all"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "size_small_business",
+        "industry_logistics"
+      ]
+    },
+    "gillsaint_31201714": {
+      "first_seen": "2025-06-13T13:18:12.927126",
+      "last_updated": "2025-06-13T13:18:12.927126",
+      "lead_score": 39,
+      "lead_quality": "Cold Lead",
+      "author": "gillsaint",
+      "title": "US Slaps 125% Tariffs on China - Dropshipping from China to America Dead?",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "low_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "gillsaint",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing",
+        "budget_low_budget"
+      ]
+    },
+    "k1tty_catz_64128412": {
+      "first_seen": "2025-06-13T13:18:12.937409",
+      "last_updated": "2025-06-13T13:18:12.937409",
+      "lead_score": 39,
+      "lead_quality": "Cold Lead",
+      "author": "k1tty_catz",
+      "title": "*Sourcing Products* So everything really is made in china? A sad moment of realization. ",
+      "subreddit": "smallbusiness",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "k1tty_catz",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "size_small_business",
+        "industry_sourcing"
+      ]
+    },
+    "DaveMApplegate_18870068": {
+      "first_seen": "2025-06-13T13:18:12.948669",
+      "last_updated": "2025-06-13T13:18:12.948669",
+      "lead_score": 37,
+      "lead_quality": "Cold Lead",
+      "author": "DaveMApplegate",
+      "title": "After the support r/Entrepreneur showed for my free bill of lading database idea, I finished a rough draft of the tool code named ImportYeti last week! You can search just about any company's name and find their suppliers. E.x. Who makes Lululemon's Yoga Mats",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "DaveMApplegate",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [
+          "reddit.com",
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing"
+      ]
+    },
+    "pisicka_13727098": {
+      "first_seen": "2025-06-13T13:18:12.960113",
+      "last_updated": "2025-06-13T13:18:12.960113",
+      "lead_score": 37,
+      "lead_quality": "Cold Lead",
+      "author": "pisicka",
+      "title": "AliBaba suppliers are the worst...",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "pisicka",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing"
+      ]
+    },
+    "Only_Ad1117_-6260062": {
+      "first_seen": "2025-06-13T13:18:12.975290",
+      "last_updated": "2025-06-13T13:18:12.975290",
+      "lead_score": 36.6,
+      "lead_quality": "Cold Lead",
+      "author": "Only_Ad1117",
+      "title": "Sourcing or manufacturing a product",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.3,
+      "contact_info": {
+        "reddit_username": "Only_Ad1117",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "industry_manufacturing"
+      ]
+    },
+    "HubertCheung_52320140": {
+      "first_seen": "2025-06-13T13:18:12.986386",
+      "last_updated": "2025-06-13T13:18:12.986386",
+      "lead_score": 35.8,
+      "lead_quality": "Cold Lead",
+      "author": "HubertCheung",
+      "title": "Looking for startup ideas.",
+      "subreddit": "startups",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "HubertCheung",
+        "emails": [],
+        "companies_mentioned": [
+          "this point"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "size_small_business",
+        "industry_sourcing"
+      ]
+    },
+    "Geebar12315_-6292028": {
+      "first_seen": "2025-06-13T13:18:13.000033",
+      "last_updated": "2025-06-13T13:18:13.000033",
+      "lead_score": 35.6,
+      "lead_quality": "Cold Lead",
+      "author": "Geebar12315",
+      "title": "Really need some advices, don't know how to get start",
+      "subreddit": "startups",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Geebar12315",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing"
+      ]
+    },
+    "Flootson_69517469": {
+      "first_seen": "2025-06-13T13:18:13.010571",
+      "last_updated": "2025-06-13T13:18:13.010571",
+      "lead_score": 35,
+      "lead_quality": "Cold Lead",
+      "author": "Flootson",
+      "title": "How I've been making over 10k / mon. since 20 (25 now)",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Flootson",
+        "emails": [],
+        "companies_mentioned": [
+          "19",
+          "the time into self improvement",
+          "the time"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "industry_logistics"
+      ]
+    },
+    "bondtradercu_-8299269": {
+      "first_seen": "2025-06-13T13:18:13.020871",
+      "last_updated": "2025-06-13T13:18:13.020871",
+      "lead_score": 34.6,
+      "lead_quality": "Cold Lead",
+      "author": "bondtradercu",
+      "title": "Is it safe to do business with a supplier not selling through Alibaba?",
+      "subreddit": "smallbusiness",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "bondtradercu",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing"
+      ]
+    },
+    "PelJa_-6851281": {
+      "first_seen": "2025-06-13T13:18:13.035592",
+      "last_updated": "2025-06-13T13:18:13.035592",
+      "lead_score": 34.6,
+      "lead_quality": "Cold Lead",
+      "author": "PelJa",
+      "title": "Product source manager needed",
+      "subreddit": "smallbusiness",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "PelJa",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_sourcing"
+      ]
+    },
+    "nikhilsharmass_-4636218": {
+      "first_seen": "2025-06-13T13:18:13.047264",
+      "last_updated": "2025-06-13T13:18:13.047264",
+      "lead_score": 33,
+      "lead_quality": "Cold Lead",
+      "author": "nikhilsharmass",
+      "title": "What I learnt from sourcing e-commerce products from China.",
+      "subreddit": "ecommerce",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "Medium",
+      "business_size": "Unknown",
+      "budget_level": "no_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.5,
+      "contact_info": {
+        "reddit_username": "nikhilsharmass",
+        "emails": [],
+        "companies_mentioned": [
+          "least 10",
+          "once",
+          "place"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_medium",
+        "industry_sourcing",
+        "budget_no_budget",
+        "medium_urgency"
+      ]
+    },
+    "Head_Note_-8373210": {
+      "first_seen": "2025-06-13T13:18:13.059619",
+      "last_updated": "2025-06-13T13:18:13.059619",
+      "lead_score": 33,
+      "lead_quality": "Cold Lead",
+      "author": "Head_Note",
+      "title": "Alibaba suppliers are becoming way too expensive. How to find a supplier closer to home?",
+      "subreddit": "Entrepreneur",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "High",
+      "business_size": "Unknown",
+      "budget_level": "no_budget",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Head_Note",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [
+          "reddit.com"
+        ],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "intent_high",
+        "industry_sourcing",
+        "budget_no_budget"
+      ]
+    },
+    "Mundane_Inspection59_-7799365": {
+      "first_seen": "2025-06-13T13:18:13.070050",
+      "last_updated": "2025-06-13T13:18:13.070050",
+      "lead_score": 32.5,
+      "lead_quality": "Cold Lead",
+      "author": "Mundane_Inspection59",
+      "title": "Curious about how small businesses in the US source products from China\u2014especially regarding quality and risk control",
+      "subreddit": "smallbusiness",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "small_business",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "Mundane_Inspection59",
+        "emails": [],
+        "companies_mentioned": [
+          "johns hopkins university"
+        ],
+        "social_links": [],
+        "has_contact_info": true
+      },
+      "tags": [
+        "cold_lead",
+        "size_small_business",
+        "industry_sourcing"
+      ]
+    },
+    "RichardWangCN_81716793": {
+      "first_seen": "2025-06-13T13:18:13.079265",
+      "last_updated": "2025-06-13T13:18:13.079265",
+      "lead_score": 31.5,
+      "lead_quality": "Cold Lead",
+      "author": "RichardWangCN",
+      "title": "Follow-up: How to handle packaging for <$5 products when sourcing from China?",
+      "subreddit": "smallbusiness",
+      "permalink": "",
+      "campaign": "intelligent_search_20250613_1318",
+      "status": "new",
+      "follow_ups": [],
+      "engagement_history": [],
+      "contact_attempts": 0,
+      "last_contact_date": null,
+      "conversion_stage": "awareness",
+      "notes": [],
+      "buying_intent_level": "None",
+      "business_size": "Unknown",
+      "budget_level": "unknown",
+      "competitive_pressure": "low",
+      "urgency_score": 0.1,
+      "contact_info": {
+        "reddit_username": "RichardWangCN",
+        "emails": [],
+        "companies_mentioned": [],
+        "social_links": [],
+        "has_contact_info": false
+      },
+      "tags": [
+        "cold_lead",
+        "industry_sourcing"
+      ]
+    }
+  },
+  "campaigns": {},
+  "last_updated": "2025-06-13T13:18:13.079286"
+}
