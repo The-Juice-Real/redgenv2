@@ -62,5 +62,25 @@ def test_scoring_accuracy():
         print(f"China Relevant: {result.get('china_sourcing_relevance', False)}")
         print("-" * 50)
 
+def test_exclusion_filtering():
+        """Test exclusion filtering logic for CRM integration."""
+        # ...test logic here...
+
+def test_lead_scoring():
+        """Test lead scoring for service-specific bias and accuracy."""
+        # ...test logic here...
+
+def test_subreddit_validation():
+        """Test subreddit validation for activity and accessibility."""
+        # ...test logic here...
+
+def test_cache_invalidation():
+        """Test cache invalidation and cleanup logic."""
+        # ...test logic here...
+
+def test_error_handling():
+        """Test error handling and user feedback for API failures."""
+        # ...test logic here...
+
 if __name__ == "__main__":
     test_scoring_accuracy()

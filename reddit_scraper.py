@@ -12,9 +12,9 @@ class RedditScraper:
         """Initialize Reddit API connection"""
         # Reddit configuration - using provided credentials
         self.reddit_config = {
-            'client_id': os.getenv('REDDIT_CLIENT_ID', 'iuRk8bamt7Zj6Vi4uPwr5Q'),
-            'client_secret': os.getenv('REDDIT_CLIENT_SECRET', 'bhrgHoMkQONKvT9zGaETC8i4iZYjRg'),
-            'user_agent': os.getenv('REDDIT_USER_AGENT', 'Tom')
+            'client_id': os.getenv('REDDIT_CLIENT_ID'),
+            'client_secret': os.getenv('REDDIT_CLIENT_SECRET'),
+            'user_agent': os.getenv('REDDIT_USER_AGENT')
         }
         
         try:

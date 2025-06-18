@@ -15,7 +15,7 @@ class DynamicSubredditDiscovery:
     """Intelligent subreddit discovery using AI + Reddit Search API"""
     
     def __init__(self):
-        self.perplexity_api_key = os.environ.get('PERPLEXITY_API_KEY')
+        self.perplexity_api_key = os.getenv('PERPLEXITY_API_KEY')
         self.discovery_cache = {}
         self.reddit_cache = {}
         
